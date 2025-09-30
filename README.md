@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hoodiesout
-- 👀 I’m interested in ...java
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...java
+- 👋 Hi, I’m cenker
+- 👀 I’m interested in c++,java
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ...tripgang34@gmail.com
 
 <!---
