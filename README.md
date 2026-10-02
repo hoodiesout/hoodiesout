@@ -1,7 +1,7 @@
 - 👋 Hi, I’m cenker
 - 👀 I’m interested in c++,java
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ...tripgang34@gmail.com
+- 📫 How to reach me ...nazimcenkerka@gmail.com
 
 <!---
 hoodiesout/hoodiesout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
